@@ -1,0 +1,8 @@
+Funkcjonalne
+programn wyświetla instrukcje obsługi programu
+po naciśmięciu przycisku start przenosi nas do kolejnego okna zawierające pytanie i cztery  odpowiedzi
+po wybraniu odpowiedzi przez użytkownika program weryfikuje poprawność odpowiedzi
+po udzieleniu odpowiedzi program zlicza poprawne odpowiedzi
+po zakońc zeniu testu program wyświetla ilość poprawnych odpowiedzi
+
+Niefunkcjonalne
