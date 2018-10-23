@@ -1,9 +1,16 @@
 Funkcjonalne
-wyświetlenie instrukcji obsługi w nowym oknie
-rozpoczęcie testu
-wybór odpowiedzi
-ocena odpowiedzi poprawna lub niepoprawna
+1. Program wyświetla okno z instrukcją.
+2. Program wyświetla okno z przyciskiem rozpoczęcia testu
+3. Po naciśnięciu 'START' program wyświetla pytanie.
+4. Po udzieleniu odpowiedzi program określa jej poprawność.
+5. Program wyświetla komunikat dotyczący poprawności odpowiedzi.
+6. Program zlicza poprawne odpowiedzi.
+7. Program wyświetla sumaryczną liczbę poprawnych odpowiedzi.
+
 
 
 
 Niefunkcjonalne
+1. Okno z instrukcją.
+2. Brak konieczności szkolenia.
+3. 
