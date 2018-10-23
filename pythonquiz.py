@@ -1,3 +1,5 @@
+##quiz stworzony na podstawie kodu ze stony
+##https://codereview.stackexchange.com/questions/187024/python-quiz-game-with-tkinter
 from tkinter import Tk, Frame, Label, Button
 from time import sleep
 import tkinter as tk
