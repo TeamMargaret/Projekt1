@@ -35,7 +35,7 @@ class Question:
 def askQuestion():
     global questions, window, index, button, right, number_of_questions 
     if(len(questions) == index + 1):
-        Label(window, text="Quiz zakoñczony! " + str(right) + " poprawnych odpowiedzi na " + str(number_of_questions) + " pytañ.").pack()
+        Label(window, text="Quiz zakoÅ„czony! " + str(right) + " poprawnych odpowiedzi na " + str(number_of_questions) + " pytaÅ„.").pack()
         return
     button.pack_forget()
     index += 1
@@ -65,14 +65,14 @@ window.title("hello")
 tekst = tk.Label(window)
 okno = Tk()
 okno.geometry("400x400")
-etykieta = Label(okno, text='Witaj! Je¿eli chcesz\
-sprawdziæ stan swej wiedzy matematycznej, to ten quiz jest w³aœnie dla Ciebie!\
-                 Odpowiedz na 10 pytañ wybieraj¹c jedn¹ z sugerowanych\
-                 odpowiedzi. Na koñcu wyœwietlone zostanie podsumowanie.\
+etykieta = Label(okno, text='Witaj! JeÅ¼eli chcesz\
+sprawdziÄ‡ stan swej wiedzy matematycznej, to ten quiz jest wÅ‚aÅ›nie dla Ciebie!\
+                 Odpowiedz na 10 pytaÅ„ wybierajÄ…c jednÄ… z sugerowanych\
+                 odpowiedzi. Na koÅ„cu wyÅ›wietlone zostanie podsumowanie.\
                  Stosunek liczby pop')
 
 etykieta.pack()
-# wstaw pocz¹tkowy tekst
+# wstaw poczÄ…tkowy tekst
 #tekst.insert(0, "Tutaj wpisz cokolwiek...")
 window.geometry("400x400")
 button = tk.Button(window,text="Start",command=askQuestion)
