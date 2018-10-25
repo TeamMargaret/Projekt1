@@ -8,17 +8,17 @@ Funkcjonalne
 7. Program wyświetla całkowitą sumaryczną liczbę poprawnych odpowiedzi.
 8. Program nie uznaje złych odpowiedzi za poprawne.
 9. Po wyświetleniu wszystkich pytań i udzieleniu odpowiedzi na nie, możliwe jest rozpoczcie testu od nowa.
-10. Program zamyka się "krzyżykiem".
+10. Okno programu zamyka się "krzyżykiem".
 
 
 
 Niefunkcjonalne
 1. Główne okno aplikacji oraz osobne okno z instrukcją.
-2. Do zgłaszania błędów będą miały dostęp wszystkie osoby ze strony zamawiającego.
-3. Brak konieczności szkolenia.
-4. Kolory aplikacji w szarych tonach.
+2. Możliwość zmiany koloru tła okien aplikacji.
+3. Brak konieczności szkolenia użytkownika aplikacji.
+4. Domyślny kolor aplikacji w szarych tonach.
 5. Aplikacja działa na systemie operacyjnym Windows.
 6. Aplikacja używa pól wyboru. 
 7. Tylko do jednego pola jest przypisana prawidłowa odpowiedź.
-8. Aplikacja będzie dostępna dla wszystkich użytkowników przez 5 lat.
-10. Wszystkie błędy krytyczne aplikacji zostaną skutecznie naprawione w ciągu 48 h roboczych.
+8. Aplikacja powinna uruchmiać się w momencie wywołania jej przez użtkownika. 
+10. Możliwość modyfikacji pytań testowych.
