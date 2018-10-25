@@ -14,11 +14,11 @@ Funkcjonalne
 
 Niefunkcjonalne
 1. Główne okno aplikacji oraz osobne okno z instrukcją.
-2. Możliwość zmiany koloru tła okien aplikacji.
-3. Brak konieczności szkolenia użytkownika aplikacji.
+2. Brak limitu czasu na udzielenie odpowiedzi.
+3. Łatwość obsługi aplikacji (brak konieczności szkolenia użytkownika).
 4. Domyślny kolor aplikacji w szarych tonach.
 5. Aplikacja działa na systemie operacyjnym Windows.
-6. Aplikacja używa pól wyboru. 
+6. Czas reakcji aplikacji nie powinien przekraczać 2 sekund.
 7. Tylko do jednego pola jest przypisana prawidłowa odpowiedź.
 8. Aplikacja powinna uruchmiać się w momencie wywołania jej przez użtkownika. 
-10. Możliwość modyfikacji pytań testowych.
+10. Odporność na zamknięcie aplikacji w dowolnym momencie.
