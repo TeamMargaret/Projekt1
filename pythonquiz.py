@@ -2,7 +2,6 @@
 ##https://codereview.stackexchange.com/questions/187024/python-quiz-game-with-tkinter
 from tkinter import Tk, Frame, Label, Button
 from time import sleep
-import codecs
 import tkinter as tk
 
 class Question:

@@ -1,58 +1,58 @@
-ï»¿RÃ³wnanie 2sinx+cox=6 w przedziale (0,2pi)
-nie ma rozwiÄ…zaÅ„ rzeczywistych
-ma dokÅ‚adnie jedno rozwiÄ…zanie rzeczywiste
-ma dokÅ‚adnie dwa rozwiÄ…zania rzeczywiste
-ma wiÄ™cej niÅ¼ dwa rozwiÄ…zania rzeczywiste
+Równanie 2sinx+cox=6 w przedziale (0,2pi)
+nie ma rozwi¹zañ rzeczywistych
+ma dok³adnie jedno rozwi¹zanie rzeczywiste
+ma dok³adnie dwa rozwi¹zania rzeczywiste
+ma wiêcej ni¿ dwa rozwi¹zania rzeczywiste
 A
-W rozwiniÄ™ciu wyraÅ¼enia (2sqrt(3)+4y)^3 wspÃ³Å‚czynnik przy iloczynie xy^2 jest rÃ³wny
+W rozwiniêciu wyra¿enia (2sqrt(3)+4y)^3 wspó³czynnik przy iloczynie xy^2 jest równy
 32sqrt(3)
 48
 96sqrt(3)
 144
 C
-Wielomian w(x)=6x^3+3x^2-5x+p jest podzielny przez dwumian x-1 dla p rÃ³wnego
+Wielomian w(x)=6x^3+3x^2-5x+p jest podzielny przez dwumian x-1 dla p równego
 4
 -2
 2
 -4
 D
-WartoÅ›Ä‡ wyraÅ¼enia (grafika Z4) jest rÃ³wna
+Liczba urojona i do potêgi drugiej jest równa
 -1
 0
 1
 2
-C
-Funkcja kwadratowa jest okreÅ›lona wzorem f(x)=-2(x+3)(x-5). Liczby x_1,x_2 sÄ… rÃ³Å¼nymi miejscami zerowymi funkcji f. Zatem
+A
+Funkcja kwadratowa jest okreœlona wzorem f(x)=-2(x+3)(x-5). Liczby x_1,x_2 s¹ ró¿nymi miejscami zerowymi funkcji f. Zatem
 x_1+x_2=-8
 x_1+x_2=-2
 x_1+x_2=2
 x_1+x_2=8
 C
-Wykresem funkcji kwadratowej f(x)=x^2-6x-3 jest parabola, ktÃ³rej wierzchoÅ‚kiem jest punkt o wspÃ³Å‚rzÄ™dnych
+Wykresem funkcji kwadratowej f(x)=x^2-6x-3 jest parabola, której wierzcho³kiem jest punkt o wspó³rzêdnych
 (-6,-3)
 (-6,69)
 (3,-12)
 (6,-3)
 C
-Proste o rÃ³wnaniach y=(m+2)x+3 oraz y=(2m-1)x-3 sÄ… rÃ³wnolegÅ‚e, gdy
+Proste o równaniach y=(m+2)x+3 oraz y=(2m-1)x-3 s¹ równoleg³e, gdy
 m=2
 m=3
 m=0
 m=1
 B
-Funkcja f(x)=e^x jest funkcjÄ…:
-wielomianowÄ…
-wykÅ‚adniczÄ…
-kwadratowÄ…
-staÅ‚Ä…
+Funkcja f(x)=e^x jest funkcj¹:
+wielomianow¹
+wyk³adnicz¹
+kwadratow¹
+sta³¹
 B
-RozwiÄ…zanem rÃ³wnania 8^2=2^x jest x rÃ³wny
+Rozwi¹zanem równania 8^2=2^x jest x równy
 4
 5
 8
 6
 D
-KtÃ³re wartoÅ›ci zmiennej a nie naleÅ¼Ä… do dziedziny funkcji f(a)=((a-8)^2-a+4a^2)/(a^2-4)?
+Które wartoœci zmiennej a nie nale¿¹ do dziedziny funkcji f(a)=((a-8)^2-a+4a^2)/(a^2-4)?
 a=4
 a=2+a=-2
 a=2
