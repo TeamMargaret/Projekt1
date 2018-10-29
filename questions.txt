@@ -1,4 +1,4 @@
-Równanie 2sinx+cox=6 w przedziale (0,2pi)
+﻿Równanie 2sinx+cox=6 w przedziale (0,2pi)
 nie ma rozwiązań rzeczywistych
 ma dokładnie jedno rozwiązanie rzeczywiste
 ma dokładnie dwa rozwiązania rzeczywiste
