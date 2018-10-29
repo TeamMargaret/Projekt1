@@ -1,0 +1,60 @@
+Równanie 2sinx+cox=6 w przedziale (0,2pi)
+nie ma rozwiązań rzeczywistych
+ma dokładnie jedno rozwiązanie rzeczywiste
+ma dokładnie dwa rozwiązania rzeczywiste
+ma więcej niż dwa rozwiązania rzeczywiste
+A
+W rozwinięciu wyrażenia (2sqrt(3)+4y)^3 współczynnik przy iloczynie xy^2 jest równy
+32sqrt(3)
+48
+96sqrt(3)
+144
+C
+Wielomian w(x)=6x^3+3x^2-5x+p jest podzielny przez dwumian x-1 dla p równego
+4
+-2
+2
+-4
+D
+Wartość wyrażenia (grafika Z4) jest równa
+-1
+0
+1
+2
+C
+Funkcja kwadratowa jest określona wzorem f(x)=-2(x+3)(x-5). Liczby x_1,x_2 są różnymi miejscami zerowymi funkcji f. Zatem
+x_1+x_2=-8
+x_1+x_2=-2
+x_1+x_2=2
+x_1+x_2=8
+C
+Wykresem funkcji kwadratowej f(x)=x^2-6x-3 jest parabola, której wierzchołkiem jest punkt o współrzędnych
+(-6,-3)
+(-6,69)
+(3,-12)
+(6,-3)
+C
+Proste o równaniach y=(m+2)x+3 oraz y=(2m-1)x-3 są równoległe, gdy
+m=2
+m=3
+m=0
+m=1
+B
+Funkcja f(x)=e^x jest funkcją:
+wielomianową
+wykładniczą
+kwadratową
+stałą
+B
+Rozwiązanem równania 8^2=2^x jest x równy
+4
+5
+8
+6
+D
+Które wartości zmiennej a nie należą do dziedziny funkcji f(a)=((a-8)^2-a+4a^2)/(a^2-4)?
+a=4
+a=2+a=-2
+a=2
+a=4+a=-4
+BX
